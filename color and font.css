@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: hotpink;
+}
+
+div{
+	justify-content: center;
+	display: flex;
+}
+
+#title{
+	background-color: orangered;
+	font-size: 45px;
+}
+
+#discord{
+	background-color: purple;
+	font-size: 35px;
+}
+
+#discordserver{
+	background-color: purple;
+	font-size: 25px;
+}
+
+#thingig{
+	background-color: palevioletred;
+	font-size: 25px;
+}
